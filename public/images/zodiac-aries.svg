@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">白羊座设计稿</title>
+  <desc id="desc">Aries zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#f4ebe4"/>
+  <circle cx="450" cy="338" r="206" fill="#f9f6ef" stroke="#b84a47" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#fffdf9"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#b84a47"/>
+  <path d="M382 448h136l42 216H340Z" fill="#d7b7a7"/>
+  <path d="M420 420h60v180h-60Z" fill="#7b3030"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="60">Aries</text>
+</svg>

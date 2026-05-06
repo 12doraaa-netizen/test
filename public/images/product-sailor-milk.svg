@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">夏日奶白水手服</title>
+  <desc id="desc">Milk white sailor uniform placeholder.</desc>
+  <rect width="900" height="1125" fill="#f1e9df"/>
+  <rect x="92" y="88" width="716" height="949" fill="#d8e6ea"/>
+  <path d="M282 948V282c0-62 50-112 112-112h112c62 0 112 50 112 112v666Z" fill="#fffaf2"/>
+  <path d="M322 222h256l-70 160H392Z" fill="#7ea0ad"/>
+  <path d="M348 434h204l28 304H320Z" fill="#fffdf9"/>
+  <path d="M320 738h260l42 210H278Z" fill="#b7c4cd"/>
+  <path d="M406 470h88v216h-88Z" fill="#b78a98"/>
+  <text x="92" y="1020" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="52">Milk Sailor</text>
+</svg>

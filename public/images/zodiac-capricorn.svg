@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">摩羯座设计稿</title>
+  <desc id="desc">Capricorn zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#e3e2de"/>
+  <circle cx="450" cy="338" r="206" fill="#fffdf9" stroke="#62666a" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#f7f4ee"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#62666a"/>
+  <path d="M382 448h136l42 216H340Z" fill="#9b9a93"/>
+  <path d="M372 296h156M390 344h120" stroke="#fffaf2" stroke-width="9"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="54">Capricorn</text>
+</svg>

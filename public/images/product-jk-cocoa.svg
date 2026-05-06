@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">可可棕学院制服</title>
+  <desc id="desc">Cocoa academy uniform placeholder.</desc>
+  <rect width="900" height="1125" fill="#d2bfa8"/>
+  <rect x="92" y="88" width="716" height="949" fill="#fffaf2"/>
+  <path d="M284 948V250c0-60 49-109 109-109h114c60 0 109 49 109 109v698Z" fill="#f0e6da"/>
+  <path d="M322 202h256l-64 142H386Z" fill="#6f513f"/>
+  <path d="M354 418h192l36 344H318Z" fill="#fffdf9"/>
+  <path d="M318 762h264l42 186H276Z" fill="#8b6a51"/>
+  <path d="M405 480h90v244h-90Z" fill="#9a7142"/>
+  <text x="92" y="1020" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="52">Cocoa Academy</text>
+</svg>

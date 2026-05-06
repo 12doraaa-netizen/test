@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">水瓶座设计稿</title>
+  <desc id="desc">Aquarius zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#e0edf0"/>
+  <circle cx="450" cy="338" r="206" fill="#fffdf9" stroke="#6f9baa" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#fffaf2"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#6f9baa"/>
+  <path d="M382 448h136l42 216H340Z" fill="#aacbd2"/>
+  <path d="M364 500q42-42 86 0t86 0" fill="none" stroke="#2f6d70" stroke-width="14"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="54">Aquarius</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">双鱼座设计稿</title>
+  <desc id="desc">Pisces zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#e6e5f0"/>
+  <circle cx="450" cy="338" r="206" fill="#fffdf9" stroke="#8d90b7" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#fffaf2"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#8d90b7"/>
+  <path d="M382 448h136l42 216H340Z" fill="#c5bfd9"/>
+  <path d="M394 464c52-42 100-42 152 0" fill="none" stroke="#b78a98" stroke-width="18" stroke-linecap="round"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="60">Pisces</text>
+</svg>

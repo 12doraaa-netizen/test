@@ -1,0 +1,81 @@
+export const featuredProducts = [
+  {
+    id: 'jk-ivy-navy',
+    title: '12344',
+    category: 'JK 制服',
+    series: 'JK / 水手服系列',
+    description: '深海军蓝襟线搭配低饱和灰裙，适合电商详情页和小红书种草图。',
+    image: '/images/product-jk-navy.png',
+    tags: ['海军领', '灰蓝格裙', '通勤拍摄'],
+  },
+  {
+    id: 'jk-summer-milk',
+    title: '23133',
+    category: 'JK 制服',
+    series: 'JK / 水手服系列',
+    description: '奶白短袖与浅蓝领结，画面干净明亮，适合轻甜风内容封面。',
+    image: '/images/product-sailor-milk.png',
+    tags: ['水手领', '短袖', '清透感'],
+  },
+  {
+    id: 'zodiac-virgo',
+    title: '31333',
+    category: '星座设计稿',
+    series: '十二星座设计稿',
+    description: '银灰、月白与细褶线稿组合，强调秩序感和精致手作氛围。',
+    image: '/images/zodiac-virgo.png',
+    tags: ['处女座', '设计稿', '银灰'],
+  },
+  {
+    id: 'zodiac-pisces',
+    title: '1111111',
+    category: '星座设计稿',
+    series: '十二星座设计稿',
+    description: '雾蓝与珠光粉叠加，适合做限定款预告与内容平台视觉。',
+    image: '/images/zodiac-pisces.png',
+    tags: ['双鱼座', '限定感', '雾蓝粉'],
+  },
+]
+
+export const products = [
+  ...featuredProducts,
+  {
+    id: 'jk-cocoa',
+    title: '不知道叫啥名',
+    category: 'JK 制服',
+    series: 'JK / 水手服系列',
+    description: '适合秋冬系列电商主图。',
+    image: '/images/product-jk-cocoa.png',
+    tags: ['秋冬', '学院风', '复古'],
+  },
+  {
+    id: 'jk-pearl',
+    title: '小星蝶',
+    category: 'JK 制服',
+    series: 'JK / 水手服系列',
+    description: '',
+    image: '/images/product-jk-pearl.png',
+    tags: ['百褶裙', '校园', '高级感'],
+  },
+]
+
+export const zodiacDrafts = [
+  ['白羊座', 'Crimson Motion', '利落襟线 / 火焰红领结 / 短款外套', '#b84a47', '/images/zodiac-aries.svg'],
+  ['金牛座', 'Quiet Atelier', '苔绿格纹 / 厚实面料 / 复古金扣', '#6f7557', '/images/zodiac-taurus.svg'],
+  ['双子座', 'Twin Signal', '撞色设计 / 可拆飘带 / 轻盈褶线', '#667c9d', '/images/zodiac-gemini.png'],
+  ['巨蟹座', 'Moon Shell', '月白水手领 / 粉百褶裙 / 贝壳粉', '#8ba6b5', '/images/zodiac-cancer.png'],
+  ['狮子座', 'Solar Ribbon', '金色压线 / 高腰裙摆 / 戏剧感领结', '#c58b4a', '/images/zodiac-leo.svg'],
+  ['处女座', 'Silver Order', '银灰线稿 / 细密百褶 / 极简胸标', '#8c9095', '/images/zodiac-virgo.svg'],
+  ['天秤座', 'Balanced Bloom', '粉灰配色 / 对称领片 / 柔和弧线', '#b78a98', '/images/zodiac-libra.svg'],
+  ['天蝎座', 'Night Mark', '黑莓紫领结 / 暗纹裙格 / 锐利袖口', '#6d536d', '/images/zodiac-scorpio.svg'],
+  ['射手座', 'Open Field', '风衣式外搭 / 斜纹格裙 / 旅行徽章', '#9a7a4f', '/images/zodiac-sagittarius.svg'],
+  ['摩羯座', 'Stone Academy', '石墨灰套装 / 建筑感分割 / 窄边领', '#62666a', '/images/zodiac-capricorn.svg'],
+  ['水瓶座', 'Air Archive', '冰蓝透明层 / 未来感胸针 / 轻量褶', '#6f9baa', '/images/zodiac-aquarius.svg'],
+  ['双鱼座', 'Mist Tide', '雾蓝粉渐层 / 海浪襟线 / 珠光细节', '#8d90b7', '/images/zodiac-pisces.svg'],
+].map(([name, mood, details, color, image]) => ({
+  name,
+  mood,
+  details,
+  color,
+  image,
+}))

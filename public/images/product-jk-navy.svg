@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">藤院海军领 JK 套装</title>
+  <desc id="desc">Navy collar JK uniform placeholder.</desc>
+  <rect width="900" height="1125" fill="#dfe5e4"/>
+  <rect x="92" y="88" width="716" height="949" fill="#fffaf2"/>
+  <path d="M286 948V260c0-64 52-116 116-116h96c64 0 116 52 116 116v688Z" fill="#f6f1e9"/>
+  <path d="M330 188h240l-62 154H392Z" fill="#263d48"/>
+  <path d="M360 438h180l40 356H320Z" fill="#fffaf2"/>
+  <path d="M320 796h260l44 152H276Z" fill="#596770"/>
+  <path d="M404 496h92v260h-92Z" fill="#a54848"/>
+  <text x="92" y="1020" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="52">Yu Navy</text>
+</svg>

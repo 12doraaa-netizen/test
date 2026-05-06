@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">金牛座设计稿</title>
+  <desc id="desc">Taurus zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#e9e6d8"/>
+  <circle cx="450" cy="338" r="206" fill="#fffaf2" stroke="#6f7557" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#f7f1e8"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#6f7557"/>
+  <path d="M382 448h136l42 216H340Z" fill="#b7a67d"/>
+  <circle cx="450" cy="434" r="24" fill="#9a7142"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="60">Taurus</text>
+</svg>

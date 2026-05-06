@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">处女座设计稿</title>
+  <desc id="desc">Virgo zodiac JK draft placeholder.</desc>
+  <rect width="900" height="900" fill="#ececea"/>
+  <circle cx="450" cy="338" r="206" fill="#fffdf9" stroke="#8c9095" stroke-width="10"/>
+  <path d="M344 664V264h212v400Z" fill="#ffffff"/>
+  <path d="M318 264h264l-78 120H396Z" fill="#8c9095"/>
+  <path d="M382 448h136l42 216H340Z" fill="#c5c8ca"/>
+  <path d="M390 496h120M384 548h132M378 600h144" stroke="#8c9095" stroke-width="8"/>
+  <text x="78" y="790" fill="#201c1a" font-family="Georgia, Times New Roman, serif" font-size="60">Virgo</text>
+</svg>
